@@ -49,6 +49,8 @@ The shelter gives some advantages and upgrades to unlock more commands. See `cd 
 ## Curing diseases
 When you eat raw fish or meat you can get salmonella. To cure salmonella you have to eat a activated charcoal tablet. After taking them it takes a few hours before you are cured.
 You can speed up this process by eating a multivitamine pill before you take the charcoal tablet. Multivitamine pills boosts the immune system. 
+  
+When you have influenza, apply same steps as with salmonella, but replace activated charcoal tablet with Zanamivir. Influenza is contagious, so be carefull with commands where multiple players can join, as there is a huge risk you will infect them!  
 
 ## Changing the bot prefix
 By default this bot reacts on two prefixes, `cd` and `.`.  
